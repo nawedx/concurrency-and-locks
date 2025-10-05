@@ -105,25 +105,6 @@ This project is ideal for:
 - Teaching thread safety concepts
 - Demonstrating testing strategies for concurrent code
 
-## Resume Value
-
-**Yes, this project adds value to your resume** because it demonstrates:
-
-✅ **Deep Understanding**: Shows you understand concurrency at a fundamental level, not just surface knowledge
-
-✅ **Testing Expertise**: Comprehensive test coverage including edge cases and statistical analysis
-
-✅ **Real-World Application**: Uses a relatable domain (banking) that mirrors production systems
-
-✅ **Quality Documentation**: Clear README demonstrating communication skills
-
-✅ **Best Practices**: Proper project structure, naming conventions, and .NET standards
-
-### Recommended Resume Description
-
-> **Concurrency & Thread Safety Research Project**
-> Developed comprehensive demonstration of race conditions and concurrency issues in multi-threaded applications using C#/.NET. Implemented detailed test suites showing lost updates, data corruption, and synchronization failures in banking scenarios. Showcases deep understanding of thread safety, atomic operations, and concurrent programming challenges.
-
 ## Author
 
 Developed as a learning exercise to master concurrent programming concepts and demonstrate advanced testing capabilities.
