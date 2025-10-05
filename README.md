@@ -111,4 +111,4 @@ Developed as a learning exercise to master concurrent programming concepts and d
 
 ## License
 
-Educational use only.
+MIT License - see [LICENSE](LICENSE) file for details.
